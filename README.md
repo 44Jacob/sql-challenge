@@ -16,7 +16,7 @@ pgAdmin 4: A user-friendly interface for managing PostgreSQL databases.
 
 Setup
 
-During the class we followed these steps to set up your environment:
+During the class we followed these steps to set up our environment:
 
 Install PostgreSQL and pgAdmin as per the official documentation.
 
@@ -50,13 +50,13 @@ My Tutor: Offered deep insights into SQL and database management.
 
 ChatGPT: Assisted with generating SQL queries and clarifying concepts.
 
-AI Tools: Utilized for programming assistance and to overcome specific challenges.
 
 Purpose
 
 The motivation behind this project was to refine my skills in database management, specifically using SQL to analyze and interpret 
 
 complex datasets. It's a step forward in my journey to becoming proficient in data handling and analysis.
+
 
 Conclusion
 
